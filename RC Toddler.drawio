@@ -22,16 +22,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="600" y="210" />
-              <mxPoint x="210" y="210" />
-              <mxPoint x="210" y="410" />
+              <mxPoint x="570" y="280" />
+              <mxPoint x="210" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="W79n-Oxr2ZgM0roB26U3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=oval;endFill=1;startArrow=oval;startFill=1;" edge="1" parent="1" source="W79n-Oxr2ZgM0roB26U3-5" target="W79n-Oxr2ZgM0roB26U3-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W79n-Oxr2ZgM0roB26U3-5" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc2;" vertex="1" parent="1">
+        <mxCell id="W79n-Oxr2ZgM0roB26U3-5" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=dc2;direction=north;" vertex="1" parent="1">
           <mxGeometry x="570" y="250" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W79n-Oxr2ZgM0roB26U3-9" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" vertex="1" parent="1">
@@ -97,7 +96,7 @@
           <mxGeometry x="690" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W79n-Oxr2ZgM0roB26U3-26" value="DC Power Supply&lt;div&gt;(12V Charger)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="540" y="210" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
